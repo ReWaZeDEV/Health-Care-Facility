@@ -4,7 +4,7 @@
 [![JavaFX](https://img.shields.io/badge/JavaFX-v17.0.10-52d3aa)](https://openjfx.io)&nbsp;
 [![MariaDB](https://img.shields.io/badge/MariaDB-v11.6.2-4e629a)](https://mariadb.org/download)&nbsp;
 [![Maven](https://img.shields.io/badge/Maven-3.9.9-C71A36)](https://maven.apache.org/)&nbsp;
-[![License: MIT](https://img.shields.io/badge/License-Apache%202.0-4CAF50)](https://github.com/heshanera/HealthPlus/blob/master/LICENSE)&nbsp;
+[![License: MIT](https://img.shields.io/badge/License-Apache%202.0-4CAF50)](https://github.com/stellarloop/Health-Care-Facility/blob/master/LICENSE)&nbsp;
 
 HealthCare Facility is a management system designed to streamline operations within healthcare facilities. It offers functionalities such as patient registration, appointment scheduling, medical record management, pharmacy billing, and inventory control. Developed using Java, JavaFX and uses MariaDB for database management
 
@@ -17,7 +17,7 @@ HealthCare Facility is a management system designed to streamline operations wit
 
 ## Workflow and Component Interactions
 
-<img src="https://github.com/heshanera/HealthPlus/blob/master/screenshots/componentInteractions2.png" alt="componentInteractions" width="100%">
+<img src="https://github.com/stellarloop/Health-Care-Facility/blob/master/screenshots/componentInteractions2.png" alt="componentInteractions" width="100%">
 
 ## Setting Up the Application
 
@@ -28,8 +28,8 @@ HealthCare Facility is a management system designed to streamline operations wit
 
 ### Set Up the Database
 - Set up a new database named `test_HMS2`
-- Import the dummy data from [`hms_db.sql`](https://github.com/heshanera/HealthPlus/blob/master/database/hms_db.sql) to new DB
-- Update the system configuration in [`config.properties`](https://github.com/heshanera/HealthPlus/blob/master/config.properties) with the database credentials
+- Import the dummy data from [`hms_db.sql`](https://github.com/stellarloop/Health-Care-Facility/blob/master/database/hms_db.sql) to new DB
+- Update the system configuration in [`config.properties`](https://github.com/stellarloop/Health-Care-Facility/blob/master/config.properties) with the database credentials
 
 
 ### Build the App
